@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Sending_Mail.MainPage" Title="Gmail" BackgroundImageSource="SampleImg3.jpg">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+        <Label Text="To" TextColor="Black" />
+        <Entry Placeholder="Email" Keyboard="Email" HorizontalOptions="FillAndExpand"  x:Name="txtEmail"/>
+        
+        <Label Text="Subject" TextColor="Black" />
+        <Entry Placeholder="Subject" HorizontalOptions="FillAndExpand"  x:Name="txtSubject" />
+
+        <Label Text="Body" TextColor="Black" />
+        <Editor Placeholder="Compose Email" Keyboard="Email" HorizontalOptions="FillAndExpand" HeightRequest="150" x:Name="txtBody" />
+        
+        <Button Text="Send Mail" x:Name="btnSendMail" Clicked="btnSendMail_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

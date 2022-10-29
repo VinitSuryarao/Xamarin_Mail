@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\bin\Debug\netstandard2.0\Sending_Mail.deps.json
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\bin\Debug\netstandard2.0\Sending_Mail.dll
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\bin\Debug\netstandard2.0\ref\Sending_Mail.dll
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\bin\Debug\netstandard2.0\Sending_Mail.pdb
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\Sending_Mail.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\Sending_Mail.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\Sending_Mail.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\Sending_Mail.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\Sending_Mail.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\Sending_Mail.dll
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\ref\Sending_Mail.dll
+E:\Study\Code\Xamarin\Sending_Mail\Sending_Mail\obj\Debug\netstandard2.0\Sending_Mail.pdb
